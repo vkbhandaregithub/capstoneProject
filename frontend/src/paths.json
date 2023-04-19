@@ -1,0 +1,14 @@
+{
+  "BASE_URL": "http://localhost:8000",
+  "ADMIN_LOGIN": "/admin/login",
+  "FETCH_CATEGORIES": "/category/",
+  "FETCH_PRODUCTS": "/product/",
+  "DELETE_PRODUCT": "/product/delete/",
+  "UPDATE_PRODUCT":"/product/update/",
+  "CREATE_RESTAURANT":"/restaurant/add/",
+  "FETCH_RESTAURANT":"/restaurant/",
+  "USER_LOGIN":"/user/login/",
+  "USER_REGISTRATION":"/user/create/",
+  "VIEW_DISH":"/product/",
+  "CREATE_PRODUCT":"/product/create"
+}

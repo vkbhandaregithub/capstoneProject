@@ -1,0 +1,70 @@
+Welcome to the capstone project!
+Over the past few months, we have covered a lot of new concepts and topics. Now, this project will bring together everything that you have learnt in this program.
+
+In this project, you will develop a Food Ordering Web Application. You will work on both the Frontend and Backend of the Application.
+
+IMPORTANT NOTE:- This is not a group project. You have to build this project individually.
+Tools & Languages
+React JS, Node JS, Express JS, MongoDB, Git, Swagger
+Feature/Functionality List
+Landing Page
+Authentication System for both Customer and Restaurant (Login, Signup).
+Restaurant Register/Signup
+Restaurant Name
+Address of Restaurant
+Opening & Closing Time
+Customer Register/Signup
+Name
+Email
+Mobile Number
+Password
+List of All Restaurants
+Restaurant Login
+Restaurant Admin can perform the following operations for the food items:
+Add food items
+Item name, quantity, price, description, picture/placeholder for the item.
+Update food Items
+Item name, quantity, price, description, picture/placeholder for the item.
+Delete food items
+Change the Availability/Stock of food.
+Accept the Order
+
+
+
+
+Customer Login
+See full Food items list.
+Select Food item, quantity and add to cart.
+Checkout
+Confirm and Place Order.
+Past Orders
+Make a proper Database Schema design.
+
+Evaluation Metrics
+The evaluation will be done on the following basis:
+Each Feature/Functionality Implementation and Working
+UI Design (Responsiveness and User Experience)
+Proper Folder/File Structure
+Proper Formatting of Code including comments.
+Documentation for the project
+Git/GitHub Commits (Evaluation will be done on the Frequency of commits with proper commit message on GitHub.
+Hosted Project would be a plus point.
+Efficiency of the Database Schema
+Submission Guidelines
+The following guidelines should be followed:
+At all times, you need to ensure that your web application is configured properly
+Complete Code should be committed/uploaded on GitHub with proper folder/file structuring. You are required to upload the solution to the Capstone Project Folder in your FullStack Repository.
+Add a readme file containing the whole installation process, and how to run the project.
+Create a pdf file which is a document containing screenshots of the application.
+Add gif/video of the working project as a demo.
+If a project can be hosted on some free platforms like Heroku, Vercel, Firebase Hosting, etc, It would be a plus point.
+
+Final Submission
+Last Date to submit your Capstone Project - 15th April 2023 11:59 PM.
+For submissions received beyond the deadline, you will be given a score of 0.
+
+Your Solution must contain the following
+Solution Code
+A pdf file which is a document containing screenshots of the application.
+A pdf file which is a document containing a database schema.
+A pdf file which is a document where you explain how you approached the problem statement.             
