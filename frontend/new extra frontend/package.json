@@ -1,0 +1,23 @@
+{
+  "name": "capstone",
+  "version": "1.0.0",
+  "description": "mern stack capstone project of food ordering app by vaibhav kailas bhandare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vkbhandareproject/Capstone.git"
+  },
+  "keywords": [
+    "mern",
+    "stack"
+  ],
+  "author": "vaibhav kailas bhandare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vkbhandareproject/Capstone/issues"
+  },
+  "homepage": "https://github.com/vkbhandareproject/Capstone#readme"
+}

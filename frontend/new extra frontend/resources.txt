@@ -1,0 +1,6 @@
+//mongoserver connection string
+
+mongodb+srv://<username>:<password>@cluster0.m934ohr.mongodb.net/test    
+
+
+mongodb+srv://<username>:<password>@cluster0.ybm607k.mongodb.net/?retryWrites=true&w=majority
