@@ -33,7 +33,8 @@ app.use("/category", categoryRouter);
 ///////////////////////////////////////////////////////////
 let port = process.env.PORT || 8000;
 
+//heroku setup ---- 
 
-app.listen((port,()=>{
-  console.log("Server Running on ",port);
-}))
+app.listen(port,()=>{
+  console.log("server run on ",port);
+})
